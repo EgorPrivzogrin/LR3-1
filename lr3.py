@@ -2,7 +2,8 @@ def input_f():
   pass
 
 
-def x2():
+def x2(n):
+  return collatz(n//2)
   pass
 
 
