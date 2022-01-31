@@ -4,7 +4,6 @@ def input_f():
 
 def x2(n):
   return collatz(n//2)
-  pass
 
 
 def x3_1():
